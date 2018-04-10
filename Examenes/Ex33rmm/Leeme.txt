@@ -1,0 +1,2 @@
+
+En el ejercicio 4, en la tabla de entrenamiento, al introducir los días de la semana, van sin tildes. 
